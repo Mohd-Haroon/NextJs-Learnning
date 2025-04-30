@@ -50,7 +50,7 @@ const Hero: FC<HeroProps> = ({ slice }) => {
         </Bounded>
       )}
 
-      {slice.variation === "horizontal" && (
+      {slice.variation === "horizontal" && false && (
         <Bounded
           data-slice-type={slice.slice_type}
           data-slice-variation={slice.variation}
