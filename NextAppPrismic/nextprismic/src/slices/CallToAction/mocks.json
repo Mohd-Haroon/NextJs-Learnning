@@ -1,0 +1,45 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Wooden"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sit consectetur consectetur aliquip. Labore commodo qui dolore aute consectetur nostrud aute ipsum sunt fugiat deserunt laboris."
+						}
+					}
+				]
+			},
+			"button_link": {
+				"key": "a770d7aa-1b99-414b-932a-c2a94cd23838",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com",
+					"text": "trouble"
+				}
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "event",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
